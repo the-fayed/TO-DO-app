@@ -46,7 +46,7 @@ BASE_URL,
 
 /api/v1/tasks/:id (GET) => get specific task info
 
-/api/v1/tasks/:id (PUTCH) => update task ifo
+/api/v1/tasks/:id (PUTCH) => update task info
 
 /api/v1/tasks/:id (DELETE) => delete specific task
 
